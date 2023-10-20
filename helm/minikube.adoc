@@ -1,0 +1,12 @@
+= Minikube
+
+== Resources: 
+* https://carmencincotti.com/2023-03-06/how-to-use-kubernetes-for-free-on-wsl/
+
+
+= Useful commands
+[,ruby]
+----
+minikube start
+minikube ssh
+----
